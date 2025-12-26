@@ -1,0 +1,11 @@
+﻿상품명,Ensemble_MAE,Ensemble_R2,최종_정확도(%),RF비중
+Pet Treats,1.78,0.65,76.83,0.51
+Baby Wipes,0.97,0.42,75.29,0.51
+Lotion,0.96,0.8,74.86,0.5
+Pulses,0.87,0.57,74.69,0.54
+Dish Soap,1.69,0.66,73.61,0.43
+Cough Syrup,1.23,0.71,73.29,0.57
+Vitamins,1.47,0.48,72.01,0.55
+Orange Juice,0.89,0.66,71.8,0.47
+Cat Food,1.39,0.66,71.42,0.41
+Toilet Cleaner,1.61,0.29,62.05,0.78
